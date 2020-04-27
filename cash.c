@@ -1,6 +1,7 @@
 #include <cs50.h>
 #include <stdio.h>
 #include <math.h>
+# Este software permite ingresar cierta cantidad de monedas, y calcular cuanto seria la mejor y cantidad justa de monedas que tendria que dar de vuelto
 int main(void)
 {
         float dollars;
