@@ -2,6 +2,9 @@
 #include <stdio.h>
 #include <math.h>
 # Este software permite ingresar cierta cantidad de monedas, y calcular cuanto seria la mejor y cantidad justa de monedas que tendria que dar de vuelto
+#empezando con las denominaciones mas altas y descendiendo.
+
+
 int main(void)
 {
         float dollars;
