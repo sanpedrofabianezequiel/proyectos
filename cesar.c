@@ -4,6 +4,9 @@
 #include <string.h>
 #include <stdlib.h>
 
+///Encriptacion
+
+
 int main(int argc,string argv[])
 {	//Parte 1 obtencion de key y validacion
 	if(argc != 2){
