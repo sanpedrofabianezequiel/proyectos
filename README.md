@@ -1,5 +1,5 @@
 # Hola lector!
-Este es mi perfil de trabajo, por el momento cuento con developer sencillos.
+Este es mi perfil de trabajo, por el momento cuento con proyectos en  desarrollo.
 Pero con el tiempo y adquiriendo mas conocimiento en IT voy agregando complegidad.
 Actualmente estudio:
 -Develops cs50 in Harvard University
